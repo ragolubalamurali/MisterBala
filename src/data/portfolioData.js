@@ -79,8 +79,8 @@ export const projects = [
     title: 'Portfolio Website',
     description: 'Designed and developed a personal portfolio website to showcase projects, technical skills, certifications, and achievements.',
     image: '/images/projects/portfolio.jpg',
-    tags: ['React', 'JavaScript', 'CSS'],
-    github: '#',
+    tags: ['React', 'JavaScript', 'CSS', 'HTML'],
+    github: 'https://github.com/ragolubalamurali/MisterBala',
     demo: '#'
   }
 ]
