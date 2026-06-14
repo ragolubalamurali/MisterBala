@@ -118,7 +118,7 @@ export default function Nav() {
 
   return (
     <>
-      <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
+      <nav className={`navbar ${scrolled ? 'scrolled' : ''} ${mobileMenuOpen ? 'menu-open' : ''}`}>
         <div className="container">
           <a href="#home" className="logo" onClick={(e) => handleLinkClick(e, '#home')} style={{ display: 'flex', alignItems: 'center' }}>
             <SmileIcon size={42} />
