@@ -44,8 +44,8 @@ export const projects = [
     description: 'Built an AI-powered resume screening system using Django and Machine Learning to automate resume classification and candidate analysis.',
     image: '/images/projects/resume-screening.jpg',
     tags: ['Python', 'Django', 'Machine Learning', 'Scikit-learn'],
-    github: '#',
-    demo: '#'
+    github: 'https://github.com/ragolubalamurali/Resume-Screening',
+    demo: 'https://resume-screening-kte2.onrender.com/'
   },
   {
     id: 'job-recruitment-portal',
